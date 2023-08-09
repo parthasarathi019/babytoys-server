@@ -1,6 +1,6 @@
-# EduPlayMart Server
+# BabyToys Server
 
 ## Client Side Repository
 
 Click here for the client side repo -> [
-eduPlayMart-client](https://github.com/showkatali-dev/eduPlayMart-client)
+BabyToys-client](https://github.com/parthasarathi019/babytoys-Client)
